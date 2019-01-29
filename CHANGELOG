@@ -1,0 +1,10 @@
+VERSIONS
+
+-> 0.0 Jan 29, 2019 01:51 PM
+    --> Initialized Project Structure
+
+-> 0.0.1 Jan 29, 2019 05:55 PM
+    --> Initialized Application FirstApplication
+    --> Registered FirstApplication to Project (settings.py)
+    --> Added sample view
+    --> Read HTML file

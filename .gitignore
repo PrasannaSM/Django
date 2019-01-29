@@ -2,3 +2,5 @@
 /dj
 /.vscode
 *.pyc
+/__pycache__
+*.sqlite3
