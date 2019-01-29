@@ -4,25 +4,30 @@ Python based web application development
 
 # Features
 
-MVT Framework
-Hot loading on browser
-ORM
+-> MVT Framework
+-> Hot loading on browser
+-> ORM
 
 # REQUIREMENTS
 
-PYTHON 3.x
-DJANGO 2.x
+-> PYTHON 3.x
+  
+-> DJANGO 2.x
 
 # INSTALLATION ON WINDOWS
-
--> PYTHON
+      
+####PYTHON
+                           
     --> Download python 3.x from https://www.python.org/downloads/
+     
     --> Set python library path to PATH environmental variable
-
--> DJANGO
+      
+####DJANGO
+                         
     --> Create a virtual environment for Django project (better way for isolating projects)
         Create a project folder
         python -m venv Virtual_Environment_Name
+      
     --> To install Django
         python -m pip install django
 
